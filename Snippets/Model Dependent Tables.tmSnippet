@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>protected \$_dependentTables = array(
+	'${1:dependent}'${2}
+);
+$0</string>
+	<key>name</key>
+	<string>Model Dependent Tables</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>zfmdt</string>
+	<key>uuid</key>
+	<string>ECAC697E-4FB4-4C4A-805A-F253A2A66831</string>
+</dict>
+</plist>

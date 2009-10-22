@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>class ${1:${TM_FILENAME/\.[^.]+$//}} extends ${2:Zend_Controller_Action}
+{
+	${3:public function init()
+	{
+		${4:parent::init();}
+	\}}
+	
+	public function ${5:index}Action()
+	{
+   		$6
+	}
+	$0
+}</string>
+	<key>name</key>
+	<string>Controller</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>zfc</string>
+	<key>uuid</key>
+	<string>0C41E4A6-20CB-4383-8248-36BF08841521</string>
+</dict>
+</plist>

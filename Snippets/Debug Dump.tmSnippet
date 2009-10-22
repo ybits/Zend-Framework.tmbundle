@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Zend_Debug::dump(${1:dump}); ${2:exit();}
+$0</string>
+	<key>name</key>
+	<string>Debug Dump</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>zfdump</string>
+	<key>uuid</key>
+	<string>7594653C-817F-4A34-BFAF-17951483E475</string>
+</dict>
+</plist>

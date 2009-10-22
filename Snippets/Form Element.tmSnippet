@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$options = array(
+	${1:'name' =&gt; '${2:name}',}
+	${3:'label' =&gt; '${4:${2/^([a-z])|(_([a-zA-Z]))/(?1:\u$1)(?2: \u$3)/g}}',}
+	${5:'required' =&gt; ${6:true},}
+	${7:'validators' =&gt; array(
+		${8:'${9:NotEmpty}'${10}}
+	),}
+	${11:'filters' =&gt; ${12:\$textFilters},}
+	${13:'prefixPath' =&gt; ${14:\$prefixPath},}
+	${15:'class' =&gt; '${16:form}'}
+); 
+\$el = new Zend_Form_Element_${17:Text}(\$options);
+\$this-&gt;addElement(\$el);
+$0</string>
+	<key>name</key>
+	<string>Form Element</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>zffe</string>
+	<key>uuid</key>
+	<string>681554FE-5704-41B0-B7A8-CC8E3B5A13B6</string>
+</dict>
+</plist>

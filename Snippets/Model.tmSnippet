@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>class ${1:${TM_FILENAME/\.[^.]+$//}} extends ${2:Zend_Db_Table_Abstract}
+{
+	${3:protected \$_name = '${4:${1/^([A-Z])|(([a-z])([A-Z]))/(?1:\l$1)(?2:$3_\l$4)/g}}';}
+	$0
+}</string>
+	<key>name</key>
+	<string>Model</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>zfm</string>
+	<key>uuid</key>
+	<string>F817C3E8-85D1-4FE8-953D-A2E281A0299B</string>
+</dict>
+</plist>
