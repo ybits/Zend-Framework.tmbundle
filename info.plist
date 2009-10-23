@@ -2,6 +2,34 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>1EB52FCA-D20F-4508-9636-1D09AC971D4C</string>
+			<string>0C41E4A6-20CB-4383-8248-36BF08841521</string>
+			<string>7594653C-817F-4A34-BFAF-17951483E475</string>
+			<string>4E8F4CEA-E1C2-4358-9FE7-A317D8C29FA2</string>
+			<string>681554FE-5704-41B0-B7A8-CC8E3B5A13B6</string>
+			<string>F817C3E8-85D1-4FE8-953D-A2E281A0299B</string>
+			<string>ECAC697E-4FB4-4C4A-805A-F253A2A66831</string>
+			<string>7BEC33B6-054D-4CAB-91DB-7079A983C502</string>
+			<string>6C0122F7-49AF-44E2-BE48-946C1A8DE463</string>
+			<string>2ABE8D9C-D74D-418E-A71E-B62B89C2C934</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>2ABE8D9C-D74D-418E-A71E-B62B89C2C934</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>C1D731BF-AFB2-4F70-90A1-C99409FB0BAB</string>
+				</array>
+				<key>name</key>
+				<string>Loader</string>
+			</dict>
+		</dict>
+	</dict>
 	<key>name</key>
 	<string>Zend Framework</string>
 	<key>ordering</key>
