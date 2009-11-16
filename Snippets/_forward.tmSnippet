@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;_forward('${1:action}', '${2:controller}', '${3:module}', ${4:array('$5' =&gt; $6${7:,} $0)});</string>
+	<key>name</key>
+	<string>_forward</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>zfforward</string>
+	<key>uuid</key>
+	<string>0CD5A1AB-4185-4A23-B01A-2C123C859DD3</string>
+</dict>
+</plist>
