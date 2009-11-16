@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Zend_Loader::loadClass('${0:Zend_Controller_Action}');</string>
+	<string>Zend_Loader::loadClass('${1:Zend_Controller_Action}');</string>
 	<key>name</key>
 	<string>loadclass</string>
 	<key>tabTrigger</key>

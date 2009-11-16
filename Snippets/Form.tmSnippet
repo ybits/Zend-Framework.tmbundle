@@ -25,7 +25,7 @@
     \}}
 }</string>
 	<key>name</key>
-	<string>Form</string>
+	<string>New form</string>
 	<key>tabTrigger</key>
 	<string>zff</string>
 	<key>uuid</key>

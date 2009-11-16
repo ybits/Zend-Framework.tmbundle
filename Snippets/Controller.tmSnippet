@@ -17,7 +17,7 @@
 	$0
 }</string>
 	<key>name</key>
-	<string>Controller</string>
+	<string>New controller</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>

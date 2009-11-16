@@ -8,7 +8,7 @@
 );
 $0</string>
 	<key>name</key>
-	<string>Model Dependent Tables</string>
+	<string>Insert dependentTables</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>

@@ -18,7 +18,7 @@
 \$this-&gt;addElement(\$el);
 $0</string>
 	<key>name</key>
-	<string>Form Element</string>
+	<string>Insert element</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>

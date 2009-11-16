@@ -6,19 +6,38 @@
 	<dict>
 		<key>items</key>
 		<array>
-			<string>1EB52FCA-D20F-4508-9636-1D09AC971D4C</string>
-			<string>0C41E4A6-20CB-4383-8248-36BF08841521</string>
 			<string>7594653C-817F-4A34-BFAF-17951483E475</string>
-			<string>4E8F4CEA-E1C2-4358-9FE7-A317D8C29FA2</string>
-			<string>681554FE-5704-41B0-B7A8-CC8E3B5A13B6</string>
-			<string>F817C3E8-85D1-4FE8-953D-A2E281A0299B</string>
-			<string>ECAC697E-4FB4-4C4A-805A-F253A2A66831</string>
-			<string>7BEC33B6-054D-4CAB-91DB-7079A983C502</string>
 			<string>6C0122F7-49AF-44E2-BE48-946C1A8DE463</string>
+			<string>------------------------------------</string>
+			<string>AD6BD405-28CE-474B-8269-BDDDCA8CE434</string>
+			<string>28B1D501-17D6-4198-AF83-B5A68226890D</string>
 			<string>2ABE8D9C-D74D-418E-A71E-B62B89C2C934</string>
 		</array>
 		<key>submenus</key>
 		<dict>
+			<key>057FC58F-607C-461E-B9BA-086BBC502CFB</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>4E8F4CEA-E1C2-4358-9FE7-A317D8C29FA2</string>
+					<string>------------------------------------</string>
+					<string>681554FE-5704-41B0-B7A8-CC8E3B5A13B6</string>
+				</array>
+				<key>name</key>
+				<string>Form</string>
+			</dict>
+			<key>28B1D501-17D6-4198-AF83-B5A68226890D</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>0C41E4A6-20CB-4383-8248-36BF08841521</string>
+					<string>1EB52FCA-D20F-4508-9636-1D09AC971D4C</string>
+					<string>------------------------------------</string>
+					<string>0CD5A1AB-4185-4A23-B01A-2C123C859DD3</string>
+				</array>
+				<key>name</key>
+				<string>Controller</string>
+			</dict>
 			<key>2ABE8D9C-D74D-418E-A71E-B62B89C2C934</key>
 			<dict>
 				<key>items</key>
@@ -27,6 +46,37 @@
 				</array>
 				<key>name</key>
 				<string>Loader</string>
+			</dict>
+			<key>421AAB87-A6C8-483D-84E4-7B61FFE57B7C</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>C4E77C27-C521-40EB-810C-886AD69F4E00</string>
+				</array>
+				<key>name</key>
+				<string>Db</string>
+			</dict>
+			<key>AD6BD405-28CE-474B-8269-BDDDCA8CE434</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>057FC58F-607C-461E-B9BA-086BBC502CFB</string>
+					<string>421AAB87-A6C8-483D-84E4-7B61FFE57B7C</string>
+				</array>
+				<key>name</key>
+				<string>Model</string>
+			</dict>
+			<key>C4E77C27-C521-40EB-810C-886AD69F4E00</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>F817C3E8-85D1-4FE8-953D-A2E281A0299B</string>
+					<string>------------------------------------</string>
+					<string>7BEC33B6-054D-4CAB-91DB-7079A983C502</string>
+					<string>ECAC697E-4FB4-4C4A-805A-F253A2A66831</string>
+				</array>
+				<key>name</key>
+				<string>Table</string>
 			</dict>
 		</dict>
 	</dict>

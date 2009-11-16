@@ -9,7 +9,7 @@
 }
 $0</string>
 	<key>name</key>
-	<string>Action</string>
+	<string>Insert action</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
