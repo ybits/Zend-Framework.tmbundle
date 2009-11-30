@@ -9,7 +9,7 @@
 	$0
 }</string>
 	<key>name</key>
-	<string>New table</string>
+	<string>New Table</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>

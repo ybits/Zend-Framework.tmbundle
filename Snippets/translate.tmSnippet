@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?${TM_PHP_OPEN_TAG_WITH_ECHO:php echo} \$this-&gt;translate(${1:messageid}); ?&gt;$0</string>
+	<key>name</key>
+	<string>translate</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>zftranslate</string>
+	<key>uuid</key>
+	<string>DFD2B91C-C499-4020-8EF3-0DA94FC75590</string>
+</dict>
+</plist>
