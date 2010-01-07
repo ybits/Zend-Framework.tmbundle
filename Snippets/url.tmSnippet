@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;?${TM_PHP_OPEN_TAG_WITH_ECHO:php echo} \$this-&gt;url(${1:array(${2:'action' =&gt; ${3:action}}, ${4:'controller' =&gt; ${5:controller}}${6:, 'module' =&gt; ${8:module}}}${9:, ${10:name}}); ?&gt;$0</string>
+	<string>&lt;?${TM_PHP_OPEN_TAG_WITH_ECHO:php echo} \$this-&gt;url(${1:array(${2:${3:'action' =&gt; ${4:action}}, ${5:'controller' =&gt; ${6:controller}}${7:, 'module' =&gt; ${8:module}}})}${9:, ${10:name}}); ?&gt;$0</string>
 	<key>name</key>
 	<string>url</string>
 	<key>scope</key>

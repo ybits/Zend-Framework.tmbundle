@@ -7,9 +7,9 @@
 		<key>items</key>
 		<array>
 			<string>7594653C-817F-4A34-BFAF-17951483E475</string>
-			<string>6C0122F7-49AF-44E2-BE48-946C1A8DE463</string>
 			<string>------------------------------------</string>
 			<string>AD6BD405-28CE-474B-8269-BDDDCA8CE434</string>
+			<string>A491DC14-8E76-4ED0-BF6C-E45299DE0F2F</string>
 			<string>28B1D501-17D6-4198-AF83-B5A68226890D</string>
 			<string>2ABE8D9C-D74D-418E-A71E-B62B89C2C934</string>
 		</array>
@@ -56,6 +56,15 @@
 				<key>name</key>
 				<string>Db</string>
 			</dict>
+			<key>A491DC14-8E76-4ED0-BF6C-E45299DE0F2F</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>C3FE0B13-A69F-42A1-8943-6AEE84490A64</string>
+				</array>
+				<key>name</key>
+				<string>View</string>
+			</dict>
 			<key>AD6BD405-28CE-474B-8269-BDDDCA8CE434</key>
 			<dict>
 				<key>items</key>
@@ -65,6 +74,20 @@
 				</array>
 				<key>name</key>
 				<string>Model</string>
+			</dict>
+			<key>C3FE0B13-A69F-42A1-8943-6AEE84490A64</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>6C0122F7-49AF-44E2-BE48-946C1A8DE463</string>
+					<string>------------------------------------</string>
+					<string>DFD2B91C-C499-4020-8EF3-0DA94FC75590</string>
+					<string>86AB881B-FB03-42B6-9C75-404E1A05EC47</string>
+					<string>4C83F50D-BA5F-4398-9EAC-86EAAE9EE1DD</string>
+					<string>73181E4A-6795-404C-A4FF-2193856ECBC9</string>
+				</array>
+				<key>name</key>
+				<string>Helper</string>
 			</dict>
 			<key>C4E77C27-C521-40EB-810C-886AD69F4E00</key>
 			<dict>
@@ -93,6 +116,10 @@
 		<string>ECAC697E-4FB4-4C4A-805A-F253A2A66831</string>
 		<string>7BEC33B6-054D-4CAB-91DB-7079A983C502</string>
 		<string>6C0122F7-49AF-44E2-BE48-946C1A8DE463</string>
+		<string>0CD5A1AB-4185-4A23-B01A-2C123C859DD3</string>
+		<string>C1D731BF-AFB2-4F70-90A1-C99409FB0BAB</string>
+		<string>86AB881B-FB03-42B6-9C75-404E1A05EC47</string>
+		<string>4C83F50D-BA5F-4398-9EAC-86EAAE9EE1DD</string>
 	</array>
 	<key>uuid</key>
 	<string>3FAAA0CF-EC0A-4D17-81C2-C1FC20050E48</string>
