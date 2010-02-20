@@ -3,18 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>public function ${1:name}Action()
-{
-	$2
-}
-$0</string>
+	<string>\$this-&gt;getHelper('redirector')-&gt;gotoSimpleAndExit(${1:action}, ${2:controller}, ${3:module}${4:, ${5:array('$6' =&gt; $7${8:,} $0)}});</string>
 	<key>name</key>
-	<string>Insert Action</string>
+	<string>gotoSimpleAndExit</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>zfca</string>
+	<string>zfredirector</string>
 	<key>uuid</key>
-	<string>1EB52FCA-D20F-4508-9636-1D09AC971D4C</string>
+	<string>14CCF07E-C2AB-479A-951F-5A5023EC4439</string>
 </dict>
 </plist>

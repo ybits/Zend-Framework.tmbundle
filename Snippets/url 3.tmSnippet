@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;getHelper('url')-&gt;url(${1:array(${2:${3:'action' =&gt; ${4:action}}, ${5:'controller' =&gt; ${6:controller}}${7:, 'module' =&gt; ${8:module}}})}${9:, ${10:name}${11:, ${12:reset}${13:, ${14:encode}}}});$0</string>
+	<key>name</key>
+	<string>Complex</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>zfurl</string>
+	<key>uuid</key>
+	<string>6DFA5F0E-ED35-4B8E-AAC5-74011D86C4F7</string>
+</dict>
+</plist>

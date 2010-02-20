@@ -3,18 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>public function ${1:name}Action()
-{
-	$2
-}
-$0</string>
+	<string>&lt;?${TM_PHP_OPEN_TAG_WITH_ECHO:php echo} \$this-&gt;partial(${1:${2:name}${3:, ${4:array('$5' =&gt; $6${7:,} $0)}}}); ?&gt;</string>
 	<key>name</key>
-	<string>Insert Action</string>
+	<string>partial</string>
 	<key>scope</key>
-	<string>source.php</string>
+	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>zfca</string>
+	<string>zfpartial</string>
 	<key>uuid</key>
-	<string>1EB52FCA-D20F-4508-9636-1D09AC971D4C</string>
+	<string>73181E4A-6795-404C-A4FF-2193856ECBC9</string>
 </dict>
 </plist>

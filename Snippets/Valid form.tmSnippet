@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>if (\$this-&gt;getRequest()-&gt;isPost()) {
+    \$form = new ${1:FormClass}(${2:options});
+    
+    \$posts = \$this-&gt;getRequest()-&gt;getPost();
+    
+    if (\$form-&gt;isValid(\$posts)) {
+        $0
+    } else {
+        \$form-&gt;populate(\$posts);
+    }
+}</string>
+	<key>name</key>
+	<string>Valid form</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>zfvalidform</string>
+	<key>uuid</key>
+	<string>A2A110DF-3F6B-41E0-A395-8550706D865E</string>
+</dict>
+</plist>

@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Zend_Loader::loadClass('${1:Zend_Controller_Action}');</string>
+	<string>\$this-&gt;_getAllParams();$0</string>
 	<key>name</key>
-	<string>Load class</string>
+	<string>_getAllParams</string>
+	<key>scope</key>
+	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>zfloadclass</string>
+	<string>zfallparams</string>
 	<key>uuid</key>
-	<string>C1D731BF-AFB2-4F70-90A1-C99409FB0BAB</string>
+	<string>089967E7-7D48-40DC-94BE-7FD8AB2A4617</string>
 </dict>
 </plist>

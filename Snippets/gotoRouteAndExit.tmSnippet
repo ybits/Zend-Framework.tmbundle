@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;getHelper('redirector')-&gt;gotoRouteAndExit(${1:array(${2:${3:'action' =&gt; ${4:action}}, ${5:'controller' =&gt; ${6:controller}}${7:, 'module' =&gt; ${8:module}}})}${9:, ${10:name}${11:, ${12:reset}}});$0</string>
+	<key>name</key>
+	<string>gotoRouteAndExit</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>zfredirector</string>
+	<key>uuid</key>
+	<string>F2C8DFDD-F63B-4565-8373-2A057721AB63</string>
+</dict>
+</plist>
