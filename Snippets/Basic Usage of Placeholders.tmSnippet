@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?${TM_PHP_OPEN_TAG:php} \$this-&gt;placeholder(${1:name})-&gt;set(${2:value}); ?&gt;$0</string>
+	<key>name</key>
+	<string>Basic Usage of Placeholders</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>zfplaceholder</string>
+	<key>uuid</key>
+	<string>302111DB-9287-4FFF-B5C6-11B9AB6C91F6</string>
+</dict>
+</plist>

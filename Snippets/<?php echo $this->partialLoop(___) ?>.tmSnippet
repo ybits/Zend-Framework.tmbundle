@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?${TM_PHP_OPEN_TAG_WITH_ECHO:php echo} \$this-&gt;partialLoop(${1:name}, ${2:array($3${4:,} $0)}); ?&gt;</string>
+	<key>name</key>
+	<string>&lt;?php echo $this-&gt;partialLoop(...) ?&gt;</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>zfpartialloop</string>
+	<key>uuid</key>
+	<string>DA0CFBFD-E2E9-43D1-A6B8-F68E2BCD5787</string>
+</dict>
+</plist>

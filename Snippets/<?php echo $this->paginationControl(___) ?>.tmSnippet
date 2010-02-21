@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?${TM_PHP_OPEN_TAG_WITH_ECHO:php echo} \$this-&gt;paginationControl(${1:paginator}, ${2:All/Elastic/Jumping/Sliding}, ${3:partial}${4:, ${5:array('$6' =&gt; $7${8:,} $0)}}); ?&gt;</string>
+	<key>name</key>
+	<string>&lt;?php echo $this-&gt;paginationControl(...) ?&gt;</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>zfpagination</string>
+	<key>uuid</key>
+	<string>14A6C27A-2A92-4FF5-BB1A-94F441576616</string>
+</dict>
+</plist>
