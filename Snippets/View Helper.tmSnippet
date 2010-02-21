@@ -3,11 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>class ${1:${TM_FILENAME/\.[^.]+$//}}
+	<string>class ${1:${TM_FILENAME/\.[^.]+$//}} ${2:extends ${3:Zend_View_Helper_Abstract}}
 {
-	function ${2:${1/^([A-Z])|/(?1:\l$1)/g}}()
+	${4:public }function ${5:${1/(_?([A-Za-z]*)_)*([A-Z])?([a-zA-Z]*)/\l$3$4/g}}(${6:\$${7:value}${8: = null}})
 	{
-		${3:\$fc = Zend_Controller_Front::getInstance();}
 		$0
 	}
 }</string>

@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;?${TM_PHP_OPEN_TAG_WITH_ECHO:php echo} \$this-&gt;partial(${1:${2:name}${3:, ${4:array('$5' =&gt; $6${7:,} $0)}}}); ?&gt;</string>
 	<key>name</key>
-	<string>partial</string>
+	<string>&lt;?php echo $this-&gt;partial(...) ?&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

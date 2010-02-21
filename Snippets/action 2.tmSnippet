@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;?${TM_PHP_OPEN_TAG_WITH_ECHO:php echo} \$this-&gt;action(${1:action}, ${2:controller}, ${3:module}${4:, ${5:array('$6' =&gt; $7${8:,} $0)}}); ?&gt;$0</string>
 	<key>name</key>
-	<string>action</string>
+	<string>&lt;?php echo $this-&gt;action(...) ?&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
