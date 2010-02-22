@@ -3,9 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>if (\$this-&gt;getRequest()-&gt;isPost()) {
-    \$form = new ${1:FormClass}(${2:options});
-    
+	<string>\$form = new ${1:FormClass}(${2:options});
+if (\$this-&gt;getRequest()-&gt;isPost()) {
     \$posts = \$this-&gt;getRequest()-&gt;getPost();
     
     if (\$form-&gt;isValid(\$posts)) {
